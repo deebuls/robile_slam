@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>robile_slam</name>
+  <version>1.0.0</version>
+  <description>The robile_slam package</description>
+
+  <maintainer email="deebuls@gmail.com">Deebul Nair</maintainer>
+  <license>Apache2.0</license>
+
+
+  <author email="deebuls@gmail.com">Deebul Nair</author>
+
+  <exec_depend>gmapping</exec_depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
